@@ -6,7 +6,6 @@ public abstract class BaseWaffle {
 
 
     public String getDescription() {
-
         return description;
     }
 
